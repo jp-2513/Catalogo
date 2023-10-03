@@ -9,6 +9,7 @@ Para configurar a Base de dados você deve ter o servidor MYSQL e configurar sua
 
 Para executar a base de Dados de criação e população basta abrir o solução do projeto  e dar o comando update-database no console do gerenciador dos pacotes com o projeto Padrão setado no Catalogo.Infrastructure conforme a img abaixo.
 ![image](https://github.com/jp-2513/Catalogo/assets/56940126/a0407b9b-88a9-4b49-980a-c1b3e70ed575)
+
 Para executar a API basta inicializar a projeto Catalogo.API
 ![image](https://github.com/jp-2513/Catalogo/assets/56940126/78e84691-0617-4e28-af58-d4456d953927)
 
