@@ -3,6 +3,7 @@ ApiCatalogo de Produtos/Categoria
 
 Essa é a ApiCatologo de Categorias/Produtos .
 Para executar basta apenas fazer o clone ou o baixar o zip do codigo.
+Abrir a solução da API.
 Para configurar a Base de dados você deve ter o servidor MYSQL e configurar sua conexão no arquivo appsettings.json conforme a img abaixo.
 ![image](https://github.com/jp-2513/Catalogo/assets/56940126/9d9b32a6-3fc9-485b-a731-a2a0a382bda1)
 
